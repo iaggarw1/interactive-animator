@@ -1,3 +1,0 @@
-HW02
-  Assignment to explore the effects of various joint angles on an articulated arm
-  and to implement fluid motion via interpolation.
