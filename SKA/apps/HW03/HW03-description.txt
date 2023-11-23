@@ -1,0 +1,3 @@
+HW03
+  Environment to control two walking chracters from motion capture data.
+  Used for HW03, which adds time warping to synchronize the steps of the characters.

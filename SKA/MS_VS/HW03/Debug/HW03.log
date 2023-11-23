@@ -1,0 +1,4 @@
+﻿  AnimationControl.cpp
+C:\Users\alexa\OneDrive\Desktop\HW03_VS2019_Oct05\SKA\apps\HW03\AnimationControl.cpp(184,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alexa\OneDrive\Desktop\HW03_VS2019_Oct05\SKA\apps\HW03\AnimationControl.cpp(191,24): warning C4018: '<': signed/unsigned mismatch
+  HW03.vcxproj -> C:\Users\alexa\OneDrive\Desktop\HW03_VS2019_Oct05\SKA\MS_VS\Debug\HW03.exe
