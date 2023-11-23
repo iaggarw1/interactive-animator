@@ -1,0 +1,6 @@
+exercise0907:
+  Demo program that implements programmed motion of legs, 
+  rather than data-driven motion.
+  This also demonstrates the use if an application specific
+  MotionController subclass.
+  Used for class exerise on September 7.

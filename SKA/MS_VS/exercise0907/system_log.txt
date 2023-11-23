@@ -1,0 +1,3 @@
+SKA version: 4.0
+Loading texture skymap1.bmp index 0 name 1
+Log closed normally
