@@ -362,5 +362,8 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-# Ignore the following db files
+# Ignore the following files/folders
 SKA/MS_VS/.vs/SKA/v17/Browse.VC.opendb
+SKA/MS_VS/Debug/
+SKA/MS_VS/HW03/Debug/
+SKA/MS_VS/ska/Debug/
