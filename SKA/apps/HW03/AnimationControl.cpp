@@ -37,12 +37,12 @@ struct LoadSpec {
 
 const short NUM_CHARACTERS = 1;
 LoadSpec load_specs[NUM_CHARACTERS] = {
-	LoadSpec(BVH, 0.2f, Color(1.0f,0.0f,0.0f), string("walk_circle/walk_circle_1.bvh"))
+	LoadSpec(BVH, 1.5, Color(1.0f,0.0f,0.0f), string("throw_and_catch_141_11.bvh"))
 };
 
 AnimationControl::AnimationControl()
 	: ready(false), run_time(0.0f),
-	global_timewarp(1.0f),
+	global_timewarp(0.75f),
 	next_marker_time(0.1f), marker_time_interval(0.1f), max_marker_time(20.0f) {}
 
 AnimationControl::~AnimationControl()
