@@ -1,0 +1,1281 @@
+SKA version: 4.0
+Skeleton dump =================================
+ID: ../../data/motion/BVH/t-pose/t-pose.bvh
+Documentation:
+Units:
+BONE 0 --------------------------------
+
+DUMP BONE root id 0 DEFINITION:
+Name: root
+Direction: Vector<0,0,1>
+Length: 0
+Axis: Vector<0,0,0> ------
+channel 0 limits(-3.40282e+38,3.40282e+38)
+channel 1 limits(-3.40282e+38,3.40282e+38)
+channel 2 limits(-3.40282e+38,3.40282e+38)
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE root id 0 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 1 --------------------------------
+
+DUMP BONE Hips__0 id 1 DEFINITION:
+Name: Hips__0
+Direction: Vector<-0,1,0>
+Length: 1.51411
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 is not enabled
+channel 4 is not enabled
+channel 5 is not enabled
+
+DUMP BONE Hips__0 id 1 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-0]
+      [0,1,0,1.51411]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 2 --------------------------------
+
+DUMP BONE Spine id 2 DEFINITION:
+Name: Spine
+Direction: Vector<-0,1,0>
+Length: 4.55772
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE Spine id 2 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-0]
+      [0,1,0,4.55772]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 3 --------------------------------
+
+DUMP BONE Spine1__0 id 3 DEFINITION:
+Name: Spine1__0
+Direction: Vector<-0,0.995893,0.0905358>
+Length: 4.55772
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE Spine1__0 id 3 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-0]
+      [0,1,0,4.539]
+      [0,0,1,0.412637]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 4 --------------------------------
+
+DUMP BONE Neck id 4 DEFINITION:
+Name: Neck
+Direction: Vector<-0,0.989949,-0.141421>
+Length: 2.6113
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE Neck id 4 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-0]
+      [0,1,0,2.58506]
+      [0,0,1,-0.369294]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 5 --------------------------------
+
+DUMP BONE Head id 5 DEFINITION:
+Name: Head
+Direction: Vector<-0,1,0>
+Length: 4.61617
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE Head id 5 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-0]
+      [0,1,0,4.61617]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 6 --------------------------------
+
+DUMP BONE Spine1__1 id 6 DEFINITION:
+Name: Spine1__1
+Direction: Vector<0.172122,0.985058,-0.00589215>
+Length: 4.29972
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE Spine1__1 id 6 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,0.740078]
+      [0,1,0,4.23547]
+      [0,0,1,-0.0253346]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 7 --------------------------------
+
+DUMP BONE LeftShoulder id 7 DEFINITION:
+Name: LeftShoulder
+Direction: Vector<1,0,0>
+Length: 1.96936
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE LeftShoulder id 7 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,1.96936]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 8 --------------------------------
+
+DUMP BONE LeftArm id 8 DEFINITION:
+Name: LeftArm
+Direction: Vector<1,0,0>
+Length: 6.91662
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE LeftArm id 8 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,6.91662]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 9 --------------------------------
+
+DUMP BONE LeftForeArm id 9 DEFINITION:
+Name: LeftForeArm
+Direction: Vector<1,0,0>
+Length: 3.65947
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE LeftForeArm id 9 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,3.65947]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 10 --------------------------------
+
+DUMP BONE LeftHand id 10 DEFINITION:
+Name: LeftHand
+Direction: Vector<1,0,0>
+Length: 2.7697
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE LeftHand id 10 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,2.7697]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 11 --------------------------------
+
+DUMP BONE Spine1__2 id 11 DEFINITION:
+Name: Spine1__2
+Direction: Vector<-0.171162,0.985225,-0.00589315>
+Length: 4.29899
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE Spine1__2 id 11 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-0.735824]
+      [0,1,0,4.23547]
+      [0,0,1,-0.0253346]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 12 --------------------------------
+
+DUMP BONE RightShoulder id 12 DEFINITION:
+Name: RightShoulder
+Direction: Vector<-1,0,0>
+Length: 1.96936
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE RightShoulder id 12 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-1.96936]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 13 --------------------------------
+
+DUMP BONE RightArm id 13 DEFINITION:
+Name: RightArm
+Direction: Vector<-1,0,0>
+Length: 6.91662
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE RightArm id 13 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-6.91662]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 14 --------------------------------
+
+DUMP BONE RightForeArm id 14 DEFINITION:
+Name: RightForeArm
+Direction: Vector<-1,0,0>
+Length: 3.65947
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE RightForeArm id 14 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-3.65947]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 15 --------------------------------
+
+DUMP BONE RightHand id 15 DEFINITION:
+Name: RightHand
+Direction: Vector<-1,0,0>
+Length: 2.7697
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE RightHand id 15 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-2.7697]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 16 --------------------------------
+
+DUMP BONE Hips__1 id 16 DEFINITION:
+Name: Hips__1
+Direction: Vector<1,0,0>
+Length: 1.84647
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 is not enabled
+channel 4 is not enabled
+channel 5 is not enabled
+
+DUMP BONE Hips__1 id 16 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,1.84647]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 17 --------------------------------
+
+DUMP BONE LeftUpLeg id 17 DEFINITION:
+Name: LeftUpLeg
+Direction: Vector<-0,-1,0>
+Length: 7.33728
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE LeftUpLeg id 17 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-0]
+      [0,1,0,-7.33728]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 18 --------------------------------
+
+DUMP BONE LeftLeg id 18 DEFINITION:
+Name: LeftLeg
+Direction: Vector<-0,-1,0>
+Length: 7.91934
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE LeftLeg id 18 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-0]
+      [0,1,0,-7.91934]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 19 --------------------------------
+
+DUMP BONE LeftFoot id 19 DEFINITION:
+Name: LeftFoot
+Direction: Vector<-0,-0.397607,0.917556>
+Length: 3.01857
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE LeftFoot id 19 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-0]
+      [0,1,0,-1.20021]
+      [0,0,1,2.7697]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 20 --------------------------------
+
+DUMP BONE LeftToeBase id 20 DEFINITION:
+Name: LeftToeBase
+Direction: Vector<-0,0,1>
+Length: 0.738588
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE LeftToeBase id 20 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-0]
+      [0,1,0,0]
+      [0,0,1,0.738588]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 21 --------------------------------
+
+DUMP BONE Hips__2 id 21 DEFINITION:
+Name: Hips__2
+Direction: Vector<-1,0,0>
+Length: 1.84647
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 is not enabled
+channel 4 is not enabled
+channel 5 is not enabled
+
+DUMP BONE Hips__2 id 21 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-1.84647]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 22 --------------------------------
+
+DUMP BONE RightUpLeg id 22 DEFINITION:
+Name: RightUpLeg
+Direction: Vector<-0,-1,0>
+Length: 7.33728
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE RightUpLeg id 22 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-0]
+      [0,1,0,-7.33728]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 23 --------------------------------
+
+DUMP BONE RightLeg id 23 DEFINITION:
+Name: RightLeg
+Direction: Vector<-0,-1,0>
+Length: 7.91934
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE RightLeg id 23 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-0]
+      [0,1,0,-7.91934]
+      [0,0,1,0]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 24 --------------------------------
+
+DUMP BONE RightFoot id 24 DEFINITION:
+Name: RightFoot
+Direction: Vector<-0,-0.397607,0.917556>
+Length: 3.01857
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE RightFoot id 24 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-0]
+      [0,1,0,-1.20021]
+      [0,0,1,2.7697]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+BONE 25 --------------------------------
+
+DUMP BONE RightToeBase id 25 DEFINITION:
+Name: RightToeBase
+Direction: Vector<-0,0,1>
+Length: 0.738588
+Axis: Vector<0,0,0> ------
+channel 0 is not enabled
+channel 1 is not enabled
+channel 2 is not enabled
+channel 3 limits(-3.40282e+38,3.40282e+38)
+channel 4 limits(-3.40282e+38,3.40282e+38)
+channel 5 limits(-3.40282e+38,3.40282e+38)
+
+DUMP BONE RightToeBase id 25 DATA: 
+start position: Vector<0,0,0>
+end position: Vector<0,0,0>
+input orientation: Vector<0,0,0>
+M (motion data - dynamic angles):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+M angles(deg) -0,0,-0
+B (translation relative to parent bone):
+Matrix[1,0,0,-0]
+      [0,1,0,0]
+      [0,0,1,0.738588]
+      [0,0,0,1]
+B angles(deg) -0,0,-0
+C (local axis transform - relative to parent bone):
+Matrix[1,0,0,0]
+      [0,1,0,0]
+      [0,0,1,0]
+      [0,0,0,1]
+C angles(deg) -0,0,-0
+L (complete local transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+L angles(deg) -0,0,-0
+W (complete world transform):
+Matrix[0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+      [0,0,0,0]
+W angles(deg) -0,0,-0
+HIERARCHY --------------------------
+	root Hips__0
+	Hips__0 Spine
+	Spine Spine1__0
+	Spine1__0 Neck
+	Neck Head
+	Spine Spine1__1
+	Spine1__1 LeftShoulder
+	LeftShoulder LeftArm
+	LeftArm LeftForeArm
+	LeftForeArm LeftHand
+	Spine Spine1__2
+	Spine1__2 RightShoulder
+	RightShoulder RightArm
+	RightArm RightForeArm
+	RightForeArm RightHand
+	root Hips__1
+	Hips__1 LeftUpLeg
+	LeftUpLeg LeftLeg
+	LeftLeg LeftFoot
+	LeftFoot LeftToeBase
+	root Hips__2
+	Hips__2 RightUpLeg
+	RightUpLeg RightLeg
+	RightLeg RightFoot
+	RightFoot RightToeBase
+======================== end Skeleton dump
+Log closed normally
